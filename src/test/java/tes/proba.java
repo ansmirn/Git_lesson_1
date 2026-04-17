@@ -19,7 +19,7 @@ public class proba {
         sleep(2000);
         $("a[href=\"/selenide/selenide/wiki/SoftAssertions\"").click();
         $("body").shouldHave(text("Using JUnit5 extend test class"));
-        sleep(9166);
+        sleep(9167);
 
     }
 }
